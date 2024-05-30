@@ -2,9 +2,6 @@
 
 This project implements operations on a graph represented by an adjacency matrix in C++. The program allows users to input graph data, perform matrix multiplications to determine paths of length 2 and 3, verify adjacency, and print the adjacency matrix. It includes a menu-driven interface for easy user interaction.
 
-## Repository Name
-graph-adjacency-matrix
-
 ## Features
 
 - **Input Graph Data**: Allows the user to input the adjacency matrix of a graph.
